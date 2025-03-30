@@ -1,0 +1,33 @@
+# User-specific files
+UserSettings/
+
+# Build results
+Build/
+Builds/
+
+# User-specific files
+.vs/
+.vscode/
+.idea/
+
+# Windows Installer files
+.DS_Store
+Thumbs.db
+
+# Log files
+*.log
+
+# Unity3D generated meta files
+*.pidb
+*.suo
+*.user
+*.userprefs
+*.unityproj
+*.sln
+
+# Unity3D generated files
+Library/
+Temp/
+Obj/
+Builds/
+Build/
